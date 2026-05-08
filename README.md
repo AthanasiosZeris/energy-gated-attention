@@ -133,9 +133,9 @@ pip install torch requests matplotlib tqdm numpy
 @misc{authorname2025ega,
   title   = {Energy-Gated Attention: Spectral Salience as an
              Inductive Bias for Transformer Attention},
-  author  = {[Author Name]},
+  author  = {[Athanasios Zeris]},
   year    = {2025},
   note    = {arXiv preprint — link to be added}
 }
 ```
-*(Update arXiv ID and author name before publishing)*
+
